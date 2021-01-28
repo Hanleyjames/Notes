@@ -4,8 +4,8 @@
 ## Table of Contents
 --------------------
 
- - [Session 1 - 13-23](/SessionNotes/Session1.md)
- - [Session 2 - 23-33](/SessionNotes/Session2.md)
+ - [Session 1 - 13-23](/SessionNotes/Writings/Session1.md)
+ - [Session 2 - 23-33](/SessionNotes/Writings/Session2.md)
 
 # Deleuze French Journal Translaton
 
