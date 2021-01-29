@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="./css/Modest.css">
+
 # Session One
 ## Pg 13-23﻿
 

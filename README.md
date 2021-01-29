@@ -1,4 +1,6 @@
-﻿# Economic and Philosophic Manuscripts of 1844 Notes - Karl Marx
+<link rel="stylesheet" href="./css/Modest.css">
+
+# Economic and Philosophic Manuscripts of 1844 Notes - Karl Marx
 
 -------------------------
 ## Table of Contents
